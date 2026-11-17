@@ -1,0 +1,6 @@
+# Keep GitHub language stats focused on the TypeScript framework.
+# Generated reports and standalone HTML diagrams are not source code.
+test-report.html linguist-generated
+playwright-report-ui/** linguist-generated
+dataflow.html linguist-documentation
+lifecycle.html linguist-documentation
